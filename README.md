@@ -1,7 +1,7 @@
-# 488-lang
+# CSC488 Language Sublime Text Syntax Highlight
 
-Simple tmLanguage package for syntax highlighting the 488 language for UofT's 
-csc488 compilers class, Winter 2017 in Sublime Text.
+Simple tmLanguage package for syntax highlighting the 488 language for Winter 2017 UofT's 
+csc488 compilers class.
 
 ## Installation
 
